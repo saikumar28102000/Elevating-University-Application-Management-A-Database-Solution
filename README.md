@@ -1,6 +1,8 @@
 # DMQL-PROJECT-CSE-580
-#ER DIAGRAM
-![Alt Text]([URL](https://github.com/saikumar28102000/DMQL-PROJECT-CSE-580/blob/main/ER2.png))
+# ER DIAGRAM
+
+![Alt Text](https://github.com/saikumar28102000/DMQL-PROJECT-CSE-580/raw/main/ER2.png)
+
 
 DMQL PROJECT CSE 580
 Creating DB
