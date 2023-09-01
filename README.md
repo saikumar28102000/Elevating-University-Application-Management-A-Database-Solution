@@ -1,4 +1,4 @@
-# DMQL-PROJECT-CSE-580
+# University Application Database Management System
 # ER DIAGRAM
 
 ![Alt Text](https://github.com/saikumar28102000/DMQL-PROJECT-CSE-580/raw/main/ER2.png)
