@@ -1,0 +1,12 @@
+COPY Country FROM 'D:/Phase2/Dataset/CSV/Country.csv' DELIMITER ',' CSV HEADER;
+COPY Region FROM 'D:/Phase2/Dataset/CSV/Region.csv' DELIMITER ',' CSV HEADER;
+COPY University_Type FROM 'D:/Phase2/Dataset/CSV/University_Type.csv' DELIMITER ',' CSV HEADER;
+COPY University_Size FROM 'D:/Phase2/Dataset/CSV/University_Size.csv' DELIMITER ',' CSV HEADER;
+COPY GRE_waiver FROM 'D:/Phase2/Dataset/CSV/GRE_waiver.csv' DELIMITER ',' CSV HEADER;
+COPY Research_output FROM 'D:/Phase2/Dataset/CSV/Research_output.csv' DELIMITER ',' CSV HEADER;
+COPY Degree_Table FROM 'D:/Phase2/Dataset/CSV/Degree_Table.csv' DELIMITER ',' CSV HEADER;
+COPY University_requirements FROM 'D:/Phase2/Dataset/CSV/University_requirements.csv' DELIMITER ',' CSV HEADER;
+COPY Applicants_General_Details FROM 'D:/Phase2/Dataset/CSV/Applicants_General_Details.csv' DELIMITER ',' CSV HEADER;
+COPY Applicants_Application_Status FROM 'D:/Phase2/Dataset/CSV/Applicants_Application_Status.csv' DELIMITER ',' CSV HEADER;
+COPY University_admins FROM 'D:/Phase2/Dataset/CSV/University_admins.csv' DELIMITER ',' CSV HEADER;
+COPY Applicants_login FROM 'D:/Phase2/Dataset/CSV/Applicants_login.csv' DELIMITER ',' CSV HEADER;
