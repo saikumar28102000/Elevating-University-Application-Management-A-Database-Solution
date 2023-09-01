@@ -1,4 +1,7 @@
 # DMQL-PROJECT-CSE-580
+#ER DIAGRAM
+![Alt Text]([URL](https://github.com/saikumar28102000/DMQL-PROJECT-CSE-580/blob/main/ER2.png))
+
 DMQL PROJECT CSE 580
 Creating DB
 1. Open PHPMyAdmin and select the database you want to use.
